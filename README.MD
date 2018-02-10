@@ -11,7 +11,7 @@ Viterbi algorithm computes a trellis using dynamic programming.
 Observation is processed from left to right filling out a trellis of states
 with the probability that HMM is in state given seeing the previous observations.
 ![HMM](https://github.com/fatliau/NLP_HMM_Viterbi/HMM_weather.png)
-
+![HMM](https://raw.githubusercontent.com/fatliau/NLP_HMM_Viterbi/HMM_weather.png)
 ## set up
 1. environment: Python 3
 
