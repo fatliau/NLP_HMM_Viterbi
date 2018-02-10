@@ -10,8 +10,8 @@ A Hidden Markov Model is an extension of a Markov chain in which the input symbo
 Viterbi algorithm computes a trellis using dynamic programming.
 Observation is processed from left to right filling out a trellis of states
 with the probability that HMM is in state given seeing the previous observations.
-![HMM](https://github.com/fatliau/NLP_HMM_Viterbi/HMM_weather.png)
-![HMM](https://raw.githubusercontent.com/fatliau/NLP_HMM_Viterbi/HMM_weather.png)
+![HMM](https://github.com/fatliau/NLP_HMM_Viterbi//blob/master/HMM_weather.png)
+![HMM](https://raw.githubusercontent.com/fatliau/NLP_HMM_Viterbi/blob/master/HMM_weather.png)
 ![alt text](http://url/to/HMM_weather.png)
 ## set up
 1. environment: Python 3
