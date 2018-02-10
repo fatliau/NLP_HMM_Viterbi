@@ -7,7 +7,9 @@ As well as published in [my Github](https://github.com/fatliau/NLP_HMM_Viterbi)
 
 A Hidden Markov Model is an extension of a Markov chain in which the input symbols are not the same as the states.
 
-Viterbi algorithm computes a trellis using dynamic programming.Observation is processed from left to right filling out a trellis of stateswith the probability that HMM is in state given seeing the previous observations.
+Viterbi algorithm computes a trellis using dynamic programming.
+Observation is processed from left to right filling out a trellis of states
+with the probability that HMM is in state given seeing the previous observations.
 
 ## set up
 1. environment: Python 3
